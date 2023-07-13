@@ -1,5 +1,6 @@
 # Sample Loan Calculator
-![image](https://github.com/cedricmoorejr/loan-calculator/assets/136417849/4f1e220c-1dbb-4810-a57b-f9bc20637408)
+![image](https://github.com/cedricmoorejr/loan-calculator/assets/136417849/d14f9a4e-a4a0-4363-8ad1-73d52bab32af)
+
 
 ## Table of Contents
 - [Description](#description)
